@@ -4,9 +4,10 @@ The proposed solution is written in C++ and C++11 support is required for succes
 
 To build exuctable file : 
 
-type make in shell to generate parking_lot executable file
-  $ make
-this will generate a executable file with name parking_lot
+type make in shell to generate parking_lot executable file,this will generate a executable file with name parking_lot
+Eg
+    $ make
+
 
 Ways to execute the project:
 
