@@ -2,9 +2,11 @@
 this repository contains c++ program for the solution of praking lot problem
 The proposed solution is written in C++ and C++11 support is required for successful build.
 
-To build exuctable file : type make in shell to generate parking_lot executable file
-                          $ make
-                          #this will generate a executable file with name parking_lot
+To build exuctable file : 
+
+type make in shell to generate parking_lot executable file
+  $ make
+this will generate a executable file with name parking_lot
 
 Ways to execute the project:
 
